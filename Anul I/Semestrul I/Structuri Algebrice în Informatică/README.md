@@ -1,2 +1,2 @@
-Profesor curs: Stamate Dumitru
+Profesor curs: Stamate Dumitru\
 Profesor seminar: Petcu Gabriela
