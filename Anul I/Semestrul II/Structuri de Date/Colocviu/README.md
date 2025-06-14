@@ -5,3 +5,5 @@ Se pot accesa astfel și colocviile celorlalte grupe de la seria 13, înlocuind 
 Colocviul a fost aproape exact același cu modelul primit.
 
 Soluțiile din fișierul colocviu.cpp sunt de 100 de puncte fiecare.
+
+Am inclus și testele fiecărei probleme de la colocviu pentru caluclarea punctajului, deși se pot descărca și direct accesând problema pe HackerRank, intrând pe link-ul de mai sus.
