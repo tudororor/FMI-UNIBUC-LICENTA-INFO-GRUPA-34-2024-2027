@@ -1,1 +1,1 @@
-Colocviul a fost aproape exact la fel cu modelul primit.
+Colocviul a fost aproape exact același cu modelul primit.
