@@ -26,4 +26,4 @@ Labornatul a atribuit fiecărui student o strctură din categoria de nota 10, ce
 
 Dacă îți pica o structură de date, iar tu alegeai alta din categoria de nota 10, nota maximă era 8.
 
-Mie mi-a picat AVL Tree, așa că asta voi atașa pe Github :).
+Mie mi-a picat AVL Tree, așa că asta am atașat pe Github :).
