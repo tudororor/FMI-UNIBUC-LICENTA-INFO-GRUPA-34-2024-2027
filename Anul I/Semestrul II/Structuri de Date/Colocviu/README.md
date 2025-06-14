@@ -3,3 +3,5 @@ Colocviul a fost dat pe platforma HackerRank, unde trebuia să dai submit la pro
 Se pot accesa astfel și colocviile celorlalte grupe de la seria 13, înlocuind cifră din link cu 1, 2 sau 3.
 
 Colocviul a fost aproape exact același cu modelul primit.
+
+Soluțiile din fișierul colocviu.cpp sunt de 100 de puncte fiecare.
