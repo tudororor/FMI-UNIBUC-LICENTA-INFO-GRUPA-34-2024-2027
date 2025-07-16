@@ -1,4 +1,5 @@
-Profesor curs: Rusu Cristian
+Profesor curs: Rusu Cristian\
+Profesor laborator: Buzas Radu
 
 Desi majoritatea materialelor atasate le puteti gasi si pe site-ul domnului profesor (https://cs.unibuc.ro/~crusu/asc/index.html), am decis sa le pun si aici pentru a completa Github-ul :). Totusi, am introdus niste fisiere modificate.
 
