@@ -1,2 +1,3 @@
-Am atasat aici doua teste de laborator gasite cu greu in conversatii anterioare :). Nu mai tin minte 100% care de unde era, dar cred ca am nimerit macar seriile. Cel de la 13 stiu ca nu a fost al nostru, dar parca a fost facut de acelasi laborant, asadar am primit foarte asemantor./
+Am atasat aici doua teste de laborator gasite cu greu in conversatii anterioare :). Nu mai tin minte 100% care de unde era, dar cred ca am nimerit macar seriile. Cel de la 13 stiu ca nu a fost al nostru, dar parca a fost facut de acelasi laborant, asadar am primit foarte asemantor.
+
 Celalalt parca era de la 15, intrucat l-am primit de la cineva de la seria 15, dar nu as baga mana in foc. Am zis totusi sa-l pun si pe el aici pentru ca nu am mai gasit alte modele. Nu m-am mai chinuit sa ascund raspunsurile pentru ca testul este grila si mi-ar fi destul de greu sa o fac, si oricum raspunsurile incercuite nu sunt 100% cele corecte.
