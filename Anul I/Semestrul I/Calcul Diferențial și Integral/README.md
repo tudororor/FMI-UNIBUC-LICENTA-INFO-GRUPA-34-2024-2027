@@ -5,5 +5,5 @@ Cele 3 examene atasate aici sunt cele date in februarie 2025. Am pus si un model
 
 - Integrale care se rezolva cu functii Betta si Gamma
 - Inegalitati
-- limita inferioara/superioara
-- convergenta simpla si uniforma
+- Limita inferioara/superioara
+- Convergenta simpla si uniforma
