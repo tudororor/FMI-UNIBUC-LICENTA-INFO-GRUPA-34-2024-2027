@@ -1,4 +1,4 @@
 Profesor curs: Olaru Vlad\
-Profesor laboraotr: Rusu Cristian-Mihai
+Profesor laborator: Rusu Cristian-Mihai
 
 ! Laboratorul si proiectul impreuna valorau mai mult decat examenul :)
