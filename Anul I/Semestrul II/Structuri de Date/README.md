@@ -1,4 +1,3 @@
 Profesor curs: Istrate Gabriel\
+Profesor seminar: Popa Bogdan\
 Profesor laborator: Alexe Vasile-Paul
-
-de adaugat cerintele de la nivelul 2
