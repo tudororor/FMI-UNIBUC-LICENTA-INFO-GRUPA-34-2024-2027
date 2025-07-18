@@ -1,0 +1,1 @@
+La subiectul I subpunctul c) nu am mai pus rezolvarea deoarece era doar pe hartie. Also rezolvarile pe care le-am atasat sunt cele scrise de mine (mai putin unde am dat credit, evident :) ), deci nu promit ca sunt cele mai eficiente, dar am obtinut nota maxima cu ele.
