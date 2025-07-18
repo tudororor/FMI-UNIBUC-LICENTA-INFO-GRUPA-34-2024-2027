@@ -1,1 +1,2 @@
-Profesor curs: Chiriță Carmen
+Profesor curs: Chiriță Carmen\
+Profesor laborator: Chiriță Carmen
