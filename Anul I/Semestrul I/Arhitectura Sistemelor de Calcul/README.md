@@ -1,5 +1,5 @@
 Profesor curs: Rusu Cristian\
-Profesor laborator: Buzas Radu
+Profesor laborator: Buzaș Radu
 
 Desi puteti gasi materialele de la examen si de la colocviu si pe site-ul domnului profesor (https://cs.unibuc.ro/~crusu/asc/index.html), am decis sa le pun si aici pentru a completa Github-ul :). Totusi, am introdus niste fisiere modificate:
 
