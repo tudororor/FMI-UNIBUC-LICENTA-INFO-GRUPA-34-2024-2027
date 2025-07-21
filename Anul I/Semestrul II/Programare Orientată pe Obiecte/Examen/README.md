@@ -1,0 +1,1 @@
+Din pacate nu am putut sa fac rost si de subiectele de la restanta, dar la problemele cu cod da foarte asemenator. Se dau aproximativ exact aceleasi coduri dar schimba o linie sau doua de cod incat sa dea alt rezultat. Daca stii bine examenul din sesiune este destul de ok in restanta. La teorie, totusi, au dat mai greu dupa parerea mea in restanta.
