@@ -1,5 +1,5 @@
-# [Anul I](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I)
-### Semestrul I
+# Anul I
+## Semestrul I
 
 | **Disciplină** | **Cursuri** | **Seminare** | **Laboratoare** | **Forma de evaluare** | **Nr. de credite** |
 |------------------------|-------------|-----------------|--------------|-------------------|-------------------|
@@ -10,7 +10,7 @@
 | [Arhitectura Sistemelor de Calcul](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul) | 2 | 1 | 1 | E | 4 |
 | [Instrumente și Tehnici de Bază în Informatică](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Instrumente%20%C8%99i%20Tehnici%20de%20Baz%C4%83%20%C3%AEn%20Informatic%C4%83) | 1 | - | 2 | E | 4 |
 
-### Semestrul II
+## Semestrul II
 
 | **Disciplină** | **Cursuri** | **Seminare** | **Laboratoare** | **Forma de evaluare** | **Nr. de credite** |
 |------------------------|-------------|-----------------|--------------|-------------------|-------------------|
