@@ -1,7 +1,7 @@
 # Anul I
 ## Semestrul I
 
-| **Disciplină** | **Cursuri** | **Seminare** | **Laboratoare** | **Forma de evaluare** | **Nr. de credite** |
+| **Disciplină** | **Curs** | **Seminar** | **Laborator** | **Forma de evaluare** | **Nr. de credite** |
 |------------------------|-------------|-----------------|--------------|-------------------|-------------------|
 | [Structuri Algebrice în Informatică](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Structuri%20Algebrice%20%C3%AEn%20Informatic%C4%83) | 2 | 2 | - | E | 4 |
 | [Calcul Diferențial și Integral](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Calcul%20Diferen%C8%9Bial%20%C8%99i%20Integral) | 3 | 2 | - | E | 6 |
@@ -12,7 +12,7 @@
 
 ## Semestrul II
 
-| **Disciplină** | **Cursuri** | **Seminare** | **Laboratoare** | **Forma de evaluare** | **Nr. de credite** |
+| **Disciplină** | **Curs** | **Seminar** | **Laborator** | **Forma de evaluare** | **Nr. de credite** |
 |------------------------|-------------|-----------------|--------------|-------------------|-------------------|
 | [Geometrie și Algebră Liniară](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Geometrie%20%C8%99i%20Algebr%C4%83%20Liniar%C4%83) | 2 | 2 | - | E | 4 |
 | [Baze de Date](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Baze%20de%20date) | 2 | - | 2 | E | 5 |
