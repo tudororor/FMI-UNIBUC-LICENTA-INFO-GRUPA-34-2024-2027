@@ -25,5 +25,3 @@ Nota 10:
 Labornatul a atribuit fiecărui student o strctură din categoria de nota 10, celelalte structuri fiind valabile pentru cei care voiau să implementeze ceva mai ușor.
 
 Dacă îți pica o structură de date, iar tu alegeai alta din categoria de nota 10, nota maximă era 8.
-
-Mie mi-a picat AVL Tree, așa că asta am atașat pe Github :).
