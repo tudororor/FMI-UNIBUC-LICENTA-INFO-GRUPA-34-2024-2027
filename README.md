@@ -5,7 +5,7 @@
 |------------------------|-------------|-----------------|--------------|-------------------|-------------------|
 | [Structuri Algebrice în Informatică](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Structuri%20Algebrice%20%C3%AEn%20Informatic%C4%83) | 2 | 2 | - | E | 4 |
 | [Calcul Diferențial și Integral](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Calcul%20Diferen%C8%9Bial%20%C8%99i%20Integral) | 3 | 2 | - | E | 6 |
-| [Tehnici Web](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Tehnici%20Web) | 2 | - | 1 | E | 5 |
+| [Tehnici Web](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Tehnici%20Web) | 2 | - | 2 | E | 5 |
 | [Programarea Algoritmilor](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Programarea%20Algoritmilor) | 2 | 1 | 2 | E | 5 |
 | [Arhitectura Sistemelor de Calcul](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Arhitectura%20Sistemelor%20de%20Calcul) | 2 | 1 | 1 | E | 4 |
 | [Instrumente și Tehnici de Bază în Informatică](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20I/Instrumente%20%C8%99i%20Tehnici%20de%20Baz%C4%83%20%C3%AEn%20Informatic%C4%83) | 1 | - | 2 | E | 4 |
