@@ -17,6 +17,6 @@
 | [Geometrie și Algebră Liniară](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Geometrie%20%C8%99i%20Algebr%C4%83%20Liniar%C4%83) | 2 | 2 | - | E | 4 |
 | [Baze de Date](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Baze%20de%20date) | 2 | - | 2 | E | 5 |
 | [Structuri de Date](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Structuri%20de%20Date) | 2 | 1 | 1 | E | 5 |
-| [PLimbaje Formale și Automate](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Limbaje%20Formale%20%C8%99i%20Automate) | 2 | 1 | 1 | E | 4 |
+| [Limbaje Formale și Automate](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Limbaje%20Formale%20%C8%99i%20Automate) | 2 | 1 | 1 | E | 4 |
 | [Programare Orientată pe Obiecte](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Programare%20Orientat%C4%83%20pe%20Obiecte) | 3 | 1 | 2 | E | 6 |
 | [Logică Matematică și Computațională](https://github.com/tudororor/FMI-UNIBUC-LICENTA-INFO-GRUPA-34-2024-2027/tree/main/Anul%20I/Semestrul%20II/Logic%C4%83%20Matematic%C4%83%20%C8%99i%20Computa%C8%9Bional%C4%83) | 2 | 1 | 1 | E | 4 |
