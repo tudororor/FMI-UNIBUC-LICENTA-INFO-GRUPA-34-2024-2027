@@ -1,9 +1,6 @@
-Am atașat cerințele pentru punctele bonus. Nu există un minim sau un maxim pentru câte cerințe să rezolvați. Fiecare cerință este însoțită de punctajul acesteia. Atașati o 
-arhivă în care să cuprindeți cîte un fișier .py/.cpp/.ipynb/etc pentru fiecare cerință, în care să aveți codul însoțit de comentarii explicative. Încărcați de asemenea, dacă 
-este cazul, fișirele de input/output cu care ați testat codul. Arhiva va avea denumirea Grupa_Nume_Prenume_LFA.zip.
+Am atașat cerințele pentru punctele bonus. Nu există un minim sau un maxim pentru câte cerințe să rezolvați. Fiecare cerință este însoțită de punctajul acesteia. Atașati o arhivă în care să cuprindeți cîte un fișier .py/.cpp/.ipynb/etc pentru fiecare cerință, în care să aveți codul însoțit de comentarii explicative. Încărcați de asemenea, dacă este cazul, fișirele de input/output cu care ați testat codul. Arhiva va avea denumirea Grupa_Nume_Prenume_LFA.zip.
 
 (Adaug aici link-ul atasat fiecarei cerinta in pdf)
-
 1. Automat Mealy: https://www.tutorialspoint.com/automata_theory/automata_theory_mealy_machine.htm
 2. Automat Moore: https://www.tutorialspoint.com/automata_theory/automata_theory_moore_machine.htm
 3. Echivalenta a doua expresii regulate: https://www.tutorialspoint.com/automata_theory/equivalence_of_two_regular_expressions.htm
