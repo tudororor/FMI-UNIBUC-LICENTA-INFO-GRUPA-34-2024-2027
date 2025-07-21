@@ -1,6 +1,6 @@
-Proiectați diagrama E/R pentru gestionarea activităților didactice ale unei universități. Lista minimală a entităților care vor apărea în model este următoarea: facultate, domeniu de studiu, an universitar, an de studiu, serie, grupă, student, cadru didactic, curs, seminar, laborator, examen).
+**Proiectați diagrama E/R pentru gestionarea activităților didactice ale unei universități. Lista minimală a entităților care vor apărea în model este următoarea: facultate, domeniu de studiu, an universitar, an de studiu, serie, grupă, student, cadru didactic, curs, seminar, laborator, examen).**
 
-Exemplu de descriere (foarte succintă):
+**Exemplu de descriere (foarte succintă):**\
 Universitatea are mai multe facultăți și domenii de studiu la care se înscriu studenți. Activitatea universității se desfășoară pe ani universitari (exemplu: 2024-2025). Studenții urmează mai mulți ani de studiu (anul 1, anul 2 etc) și aparțin unor formațiuni de studiu (serii, grupe). În funcție de anul de studiu și domeniul ales, studenții urmează anumite cursuri, seminarii  și laboratoare predate de cadre didactice ale universității. Pentru fiecare curs la care este înscris, fiecare student obține o notă în cadrul unei sesiuni (examinare, restanță, reexaminare/mărire).
 
 Diagrama va respecta modul de reprezentare folosit la curs: dreptunghiuri, nume de entități scrise cu majuscule (în limba română), atribute, cheie primară subliniată sau cu caracterul "#" la final, relații reprezentate ca arce neorientate cu verbul scris la mijloc, cardinalitate maximă și minimă pe fiecare relație.
