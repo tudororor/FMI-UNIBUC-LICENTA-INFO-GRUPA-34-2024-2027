@@ -1,0 +1,1 @@
+Temele atasate aici valorau 1 punct din nota finala. Ca sa se aplice punctajul maxim totusi, trebuia sa ai si prezenta la curs, iar prin prezenta ma refer ca trebuia sa raspunzi la curs si sa te treci la final pe o foaie.
