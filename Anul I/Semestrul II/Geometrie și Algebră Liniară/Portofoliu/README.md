@@ -1,0 +1,12 @@
+Nota la geometrie a constat foarte mult si din portofoliu, care continea:
+- Referate. Fiecare referat reprezenta 1 punct. Temele de referate au fost:
+  - Geometria euclidiana plana
+  - Geometria euclidiana in spatiu
+  - Grupul O(2)
+  - Grupul SO(2)
+  - Grupul O(3)
+  - Grupul SO(3)
+  - Cuadrice
+  - Conice
+- Rezumatele cursurilor
+- 4 probleme de geometrie la alegere rezolvate
