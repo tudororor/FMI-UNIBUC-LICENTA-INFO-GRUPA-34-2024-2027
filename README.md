@@ -1,4 +1,4 @@
-Acest GitHub contine toate temele si examenele pe care le-am avut eu ca student la grupa 34 in anii de studiu 2024-2027 (adica 134 pentru anul I, 234 pentru anul II si 334 pentru anul III).
+Acest GitHub contine toate materialele pe care am fost notat ca student la grupa 34 in anii de studiu 2024-2027 (adica 134 pentru anul I, 234 pentru anul II si 334 pentru anul III). Prin materiale ma refer atat la examene si colocvii, cat si la diverse teme sau proiecte.
 
 In README-ul fiecarei materii sunt mentionati profesorii pe care i-am avut la curs/seminar/laborator.
 
