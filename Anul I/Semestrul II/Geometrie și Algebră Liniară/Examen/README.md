@@ -1,1 +1,1 @@
-Prima pagina este de la examenul din 2025, a doua poza e din 2024, dar a dat foarte asemanator si in 2025. Adica doar a schimbat cateva valori la niste exercitii. Rezolvarea atasata aici sincer nu mai tin minte de la ce examen e, dar cerintele seamana destul de mult cu cele din 2025 :))).
+Prima pagina este de la examenul din 2025, a doua poza e din 2024, dar a dat foarte asemanator si in 2025, adica doar a schimbat cateva valori la niste exercitii. Rezolvarea atasata aici sincer nu mai tin minte de la ce examen e, dar cerintele seamana destul de mult cu cele din 2025 :))).
