@@ -1,4 +1,4 @@
-Indiferent de cat de multe grile faceai la nivelul I, nota maxima era 7, daca voiai mai mult de 7 trebuia sa ramai si la nivelul II, unde fiecare problema valora 1 punct.
+Indiferent de cat de multe grile faceai la nivelul I, nota maxima era 7. Daca voiai mai mult de 7 trebuia sa ramai si la nivelul II, unde fiecare problema valora 1 punct.
 
 Un mic sidenote: grila 7 de la nivelul I este gresita. Am primit toti punctajul pe ea.
 
