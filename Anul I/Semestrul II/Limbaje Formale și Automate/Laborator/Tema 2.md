@@ -1,0 +1,1 @@
+Aveti atasata cerinta pentru lambda-NFA-ul discutat la laborator. Tema voasta este sa transformati lambda-NFA in DFA (avand ca input un lambda-NFA, calculati si afisati starile si tranzitiile ale DFA-ului echivalent). Aveti bonus si o problema cu lema de pompare la care am explicat pe scurt ce ar trebui sa faceti. Spor la treaba!
