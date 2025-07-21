@@ -1,6 +1,6 @@
-Gestiunea activităților unei firme de curierat
+**Gestiunea activităților unei firme de curierat**
 
-Descriere scurtă:\
+**Descriere scurtă:**\
 O firmă de distribuție are angajați de tip funcționar și curier. Firma deține autovehicule având diferite capacități de transport. Funcționarii firmei preiau comenzile de livrare ale clienților. Clienții comandă transportul de la o adresă de ridicare până la o adresă de recepție. Funcționarul care a preluat comanda unui client deleagă curierilor efectuarea transportului corespunzător. În funcție de volumul livrat, transportul acestuia este delegat unuia sau mai multor curieri, ce vor folosi unul sau mai multe autovehicule. În cazul transportului cu autovehicule, sunt desemnați curierii care le vor conduce.
 
 Modelul va trebui să răspundă (inclusiv) la întrebări de forma următoare:
@@ -15,8 +15,8 @@ Modelul va trebui să răspundă (inclusiv) la întrebări de forma următoare:
 
 5. Care sunt curierii care au participat la livrări comandate în luna aprilie 2025, pentru care au folosit vehicule de capacitate 1t?
 
-Cerințe:\
+**Cerințe:**\
 Creați diagrama E/R, diagrama conceptuală, schemele relaționale. Menționați presupunerile pe care le faceți (regulile modelului). 
 
-Observații:\
+**Observații:**\
 Toate cerințele vor fi rezolvate în același fișier, al cărui nume va respecta formatul: <grupa>_<Nume>_<Prenume>_tema_3-partea1.<extensie> (de exemplu, 131_Popescu_Andrei_tema_3-partea1.pdf).
