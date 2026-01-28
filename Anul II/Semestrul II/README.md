@@ -1,0 +1,1 @@
+plecat în Erasmus :p
